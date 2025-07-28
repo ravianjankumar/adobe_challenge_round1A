@@ -36,6 +36,8 @@ Challenge_1a/
   ]
 }
 ```
+### Install All Dependencies
+
 ```bash
 
 pip install -r requirements.txt
