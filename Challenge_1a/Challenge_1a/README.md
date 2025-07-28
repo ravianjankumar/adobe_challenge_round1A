@@ -35,6 +35,7 @@ Challenge_1a/
     { "level": "H3", "text": "History of AI", "page": 3 }
   ]
 }
+```
 pip install -r requirements.txt
 python main.py
 
